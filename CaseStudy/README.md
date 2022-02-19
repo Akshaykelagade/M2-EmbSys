@@ -22,5 +22,18 @@ It is used to turn on/off the magnetron circuit and the motor is conneted to the
 ## Buzzer
 When the food is warmed the buzzer will indicate in the form of sound.
 
-# High level requirements
--
+# High Level Requirements
+- Food's liquid water content heats the food.
+- Temperature sensor should sense the temperature of the food.
+- When food cooked alert the user in the form of buzzer.
+- LED display tells the remaining cooking time.
+
+
+
+# Low Level Requirements  
+- Water,fat and sugar molecules in the food absorbs energy from the microwaves in a process called
+dielectric heating.
+- The average temperature of the food is sensed via an infrared signal powered by the microwave.
+- Once the desired temperature is reached, the buzzer sounds an alarm.
+- A microcontroller inside the microwave monitors what button we pushed and updates the display.Microcontroller also monitors the sensors to turn the electronic component on/off and display the oven status.
+
