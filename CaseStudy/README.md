@@ -41,4 +41,4 @@ dielectric heating.
 
 # Washing Machine
 ## Block Diagram of washing machine
-![block wash](https://user-images.githubusercontent.com/98802184/154811196-8fad736e-26b1-4199-b404-64b117ae0c8b.PNG)
+![wash block](https://user-images.githubusercontent.com/98802184/154811738-46b57570-5937-403d-ab4e-4fb06ad84023.PNG)
