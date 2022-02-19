@@ -41,10 +41,21 @@ dielectric heating.
 
 # Washing Machine
 ## Block Diagram of washing machine
-![wash block](https://user-images.githubusercontent.com/98802184/154811738-46b57570-5937-403d-ab4e-4fb06ad84023.PNG)
+![Capture](https://user-images.githubusercontent.com/98802184/154812311-a1808b06-765f-4975-b505-423eee6cd5e4.PNG)
 
 ## Components
-# Power Supply
-- In the power 
-supply, step down transformer is used to reduce the necessary 
-voltage for the control unit and other components. 
+## Power Supply
+In the power supply, step down transformer is used to reduce the necessary voltage for the control unit and other components. 
+
+## Microcontroller
+Microcontroller is used to control the process of washing cycle and to drive the external output devices such as water inlet valve, water drain 
+valve.
+
+## Driver Circuits
+The driver circuit gives signal to power electronic devices such as relays, triacs.
+
+## Water level sensor
+It detects the water level in the tub.
+ 
+## Mode selector
+ It is used to control the wash temperature,the spinning speed, and the delay time.
