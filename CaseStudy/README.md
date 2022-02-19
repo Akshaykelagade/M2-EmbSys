@@ -59,3 +59,7 @@ It detects the water level in the tub.
  
 ## Mode selector
  It is used to control the wash temperature,the spinning speed, and the delay time.
+ 
+ # High Level Requirements
+ - The machine should wash my cloths.
+ - 
