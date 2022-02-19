@@ -3,7 +3,7 @@
 ## Block Diagram of microwave oven
 ![block](https://user-images.githubusercontent.com/98802184/154788751-9a05dcb1-2c79-4e28-910c-56a974112796.PNG)
 
-# Componets
+## Components
 ## Microcontroller
 An 8-bit AVR microcontroller is used as the processing unit.It also has programmable general purpose input/output (GPIO) lines, Timers.
 
@@ -42,3 +42,9 @@ dielectric heating.
 # Washing Machine
 ## Block Diagram of washing machine
 ![wash block](https://user-images.githubusercontent.com/98802184/154811738-46b57570-5937-403d-ab4e-4fb06ad84023.PNG)
+
+## Components
+# Power Supply
+- In the power 
+supply, step down transformer is used to reduce the necessary 
+voltage for the control unit and other components. 
