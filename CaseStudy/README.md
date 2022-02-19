@@ -1,3 +1,8 @@
+
+# Microwave Oven
+## Block Diagram of microwave oven
+![block](https://user-images.githubusercontent.com/98802184/154788751-9a05dcb1-2c79-4e28-910c-56a974112796.PNG)
+
 # Componets
 ## Microcontroller
 An 8-bit AVR microcontroller is used as the processing unit.It also has programmable general purpose input/output (GPIO) lines, Timers.
