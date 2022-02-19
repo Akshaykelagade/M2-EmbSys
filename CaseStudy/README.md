@@ -21,3 +21,6 @@ It is used to turn on/off the magnetron circuit and the motor is conneted to the
 
 ## Buzzer
 When the food is warmed the buzzer will indicate in the form of sound.
+
+# High level requirements
+-
