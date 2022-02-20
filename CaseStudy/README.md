@@ -73,4 +73,4 @@ The motor can be used to agitate the drum (both forwards and in reverse) by swit
 - To wash my cloths i need to have keypad in that P1 is the program to start the machine and P2 is the program to stop the machine.
 - The water level sensor uses a pressure switch to detect the water level in the tub. This switch controls how high the tub fills with water. The big end of the hose connects.
  to the bottom of the tub, while the small end connects to the switch.
-- We need to have a timer to set the time foe example for level 1 timer is set for 15 sec and for level 4 timer is set for 60 sec.
+- We need to have a timer to set the time for example for level 1 timer is set for 15 sec and for level 4 timer is set for 60 sec.
