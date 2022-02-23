@@ -10,18 +10,18 @@ The arduino uno it is one of the preferred boards among arduino family.The Ardui
 including the rain sensor, LDR sensor,relay,DC motor and servo motor. 
 
 # Sensors
- ## Rain sensor
+- ## Rain sensor
  The rain sensor is used to detect the wet waste.
  
- ## LDR Sensor
- ## Ultrasonic Sensor
+- ## LDR Sensor
+- ## Ultrasonic Sensor
  This sensor is used to detect the waste in the bin if the bin is full then it sends the message to microcontrller.
  
  
  # Actuator
-  ## Servo Motor
+ - ## Servo Motor
  The servo motor is used to rotate the upper circular disc, and drops the waste in the wet bin.
- ## DC motor
+ - ## DC motor
  The DC motor is used in the  rotation of the lower circular disc (bins).
  
  # LCD Display
