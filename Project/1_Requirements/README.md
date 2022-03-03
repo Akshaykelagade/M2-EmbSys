@@ -19,6 +19,9 @@ In this project, a cost effective Automated Waste Segregator system for the segr
 | LLR2        | Ultrasonic sensor is used to detect the waste in the bin if the bin is full, then a message is displayed in the LCD                         | Implemented |
 | LLR3        | ultrasonic sensor should sense if anyone come close and servo motor should open the door                                                            | Implemented |
 
+# 5W's and 1H
+![5g and 1h](https://user-images.githubusercontent.com/98802184/156572135-ca89fe40-90f0-4242-b232-298e05739502.PNG)
+
  # APPLICATIONS:
 - In underground cities.
 - In municipalities.
