@@ -22,6 +22,9 @@ In this project, a cost effective Automated Waste Segregator system for the segr
 # 5W's and 1H
 ![5g and 1h](https://user-images.githubusercontent.com/98802184/156572135-ca89fe40-90f0-4242-b232-298e05739502.PNG)
 
+# Swot Analysis
+![swot](https://user-images.githubusercontent.com/98802184/156577136-48b7500f-04f8-4400-9c9b-436542506b9d.PNG)
+
  # APPLICATIONS:
 - In underground cities.
 - In municipalities.
