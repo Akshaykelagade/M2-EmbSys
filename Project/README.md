@@ -23,6 +23,10 @@ In this project, a cost effective Automated Waste Segregator system for the segr
 - In underground cities.
 - In municipalities.
 - In clean India mission.
+- Reducing human time and effort
+- Promotes health and sanitation
+- Protects the environment
+- Makes dumping garbage more clean
 
  # ADVANTAGES
 - Easy to handle
