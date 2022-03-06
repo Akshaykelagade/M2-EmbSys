@@ -1,5 +1,6 @@
 # Block Diagram
-![wast Block](https://user-images.githubusercontent.com/98802184/155349716-e694d0d0-4714-4b91-8a3f-64309bdeeba3.PNG)
+![block_4](https://user-images.githubusercontent.com/98802184/156924435-69298529-6cdf-46a4-b8a1-e8025ce2cb93.PNG)
+
 
 # Component Selected
 # Microcontroller
@@ -19,8 +20,7 @@ including the rain sensor, LDR sensor,relay,DC motor and servo motor.
  # Actuator
  - ## Servo Motor
    The servo motor is used to rotate the upper circular disc, and drops the waste in the wet bin.
- - ## DC motor
-   The DC motor is used in the  rotation of the lower circular disc (bins).
+
  
  # LCD Display
    The LCD display prints a message when the bin is full.
