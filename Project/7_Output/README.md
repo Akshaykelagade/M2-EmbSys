@@ -19,3 +19,9 @@
 ## Display message when the bin is full
 ![subsystem4](https://user-images.githubusercontent.com/98802184/157093517-5042c3ae-990c-4353-b994-f83f89690bad.PNG)
 - In this subsystem led is used to indicate when the dust bin is full.
+
+
+# Complete System
+![complete system](https://user-images.githubusercontent.com/98802184/157097435-0b30cc08-f2e6-4e0c-9067-b50854105d94.PNG)
+- In this the whole system is presented which shows the all the sensors working and indicating the output in the form of motion of servo motor and blinking id led.
+
