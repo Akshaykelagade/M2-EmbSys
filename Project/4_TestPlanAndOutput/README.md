@@ -2,21 +2,11 @@
 
 | Test ID | Description | Input | Expected output | Actual Output | Passed Or Not |
 | --- | --- | --- | --- | --- | --- |
-| HLR1 | Thermistor | Room Temperature(25°C) | Temperature(25°C) | Temperature(25°C) | ✅ |
-| 01 | Thermistor | Room Temperature(35°C) | Temperature(35°C) | Temperature(35°C) | ✅ |
-| 02 | Keypad | 1 | 1(Door Opens) | 1(Door Opens) | ✅ |
-| 03 | Keypad | 2 | 2(Door Closes) | 2(Door Closes) | ✅ |
-| 04 | Keypad | 3 | 3(Ligh1 On or Off) | 3(Light On or off) | ✅ |
-| 05 | Keypad | 4 | 4(Ligh On or Off) | 4(Light On or off) | ✅ |
-| 06 | Keypad | 5 | 5(Ligh On or Off) | 5(Light On or off) | ✅ |
-| 07 | Keypad | 6 | 6(Fan On or Off) | 6(Fan On or off) | ✅ |
-| 08 | Keypad | 7 | 7(Fan On or off) | 7(Fan On or off) | ✅ |
-| 09 | Keypad | 8 | 8(Fan On or Off) | 8(Fan On or off) | ✅ |
-| 08 | Keypad | * | * (No of Fan On and Light On) | * (No of Fan On and Light On) | ✅ |
-| 09 | Keypad | 0 | 0 (Resets Password) | 0 (Resets Password) | ✅ |
-| 10 | Keypad | # | # (Restarts our system) | * (Restarted our system) | ✅ |
+| HLR1 | Rain Sensor | Sensor value <5  | Servo motor rotates 180 degrees| Servo motor rotates 180 degrees | ✅ |
+| HLR1 | LDR Sensor | Sensor value>=650 && Sensor value <=750 | Servo motor rotates 90 degrees | Servo motor rotates 90 degrees | ✅ |
+| HLR2 | Ultrasonic Sensor | Distance>10cm | Display message | Display message | ✅ |
 
-### Here below are the some of the *unity test/ unity framework* test plans there are so many but I have only mentiones some of the test cases here.
+
 
 # 1.2 LOW LEVEL TEST PLAN
 
