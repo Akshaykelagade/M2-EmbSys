@@ -96,3 +96,25 @@ including the rain sensor, LDR sensor,relay,DC motor and servo motor.
 ![Strucral diagarm](https://user-images.githubusercontent.com/98802184/157208472-e1988b04-5e75-4c18-b6c1-d1cd7d9f8998.PNG)
 
 #  5.Test plan and Output
+## 5.1 HIGH LEVEL TEST PLAN
+
+| Test ID | Description | Input | Expected output | Actual Output | Passed Or Not |
+| --- | --- | --- | --- | --- | --- |
+| HLR1 | Rain Sensor | Sensor value <5  | Servo motor rotates 180 degrees| Servo motor rotates 180 degrees | ✅ |
+| HLR1 | LDR Sensor | Sensor value <5 | Servo motor rotates 90 degrees | Servo motor rotates 90 degrees | ✅ |
+| HLR2 | Ultrasonic Sensor | Distance > 30cm | Display message | Display message | ✅ |
+| HLR3 | Ultrasonic Sensor | Distance < 30cm |  Servo motor rotates 180 degrees |  Servo motor rotates 180 degrees | ✅ |
+
+# 6.	Applications
+•	In underground cities.
+•	In municipalities.
+•	In clean India mission.
+•	Reducing human time and effort
+•	Promotes health and sanitation
+•	Protects the environment
+•	Makes dumping garbage more clean
+
+
+# 7.	Output
+
+8.	Conclusion
