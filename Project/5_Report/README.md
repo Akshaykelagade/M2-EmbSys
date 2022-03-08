@@ -1,4 +1,4 @@
-
+# Implementation of an Automatic Waste Segregator System using Arduino Uno
  #### Table of content
 1.	About the Waste Segregator System
       1.	Description
