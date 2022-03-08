@@ -1,27 +1,42 @@
-####  Table of Content
-    1. Description
-    2. Requirements
-         2.1 High Level Requirements 
-         2.2 Low Level Requirements
-    3. Applications and Advantages
-    4. SWOT Analysis
-    5. 4 W's and 1 H 
-    6. Structural Design
-         6.1 Block Diagram
-         6.2 Components Details
-	       a. Controller
-           b. Sensors
-               - Soil moisture Sensor ( Potentiometer )
-               - Temperature Sensor
-           c. Actuators - Motor
-           d. GPIO - Button
-           e. LCD Display
-    7. Behavioural Design
-         7.1 Flow Chart
-         
-         
-# 1.Description
+
+ #### Table of content
+1.	About the Waste Segregator System
+      1.	Description
+      2.	State of art
+      3.	5W’s & 1H and S.W.O.T analysis
+2.	Requirements
+      1.	High level requirements
+      2.	Low level requirements
+3.	Block Diagram and Blocks explanation
+      1.	Block Diagram
+      2.	Sensors
+      3.	Actuators
+
+4.	Architecture
+      1.	Behavioural Diagram
+      1.	Flow chart
+      2.	Structural Diagram
+      1.	Block Diagram
+5.	Test plan and Output
+      1.	High level test plan
+
+6.	Applications
+7.	Output
+8.	Conclusion
+       
+ # About the Waste Segregator System     
+## 1.1 Description 
 In this project, a cost effective Automated Waste Segregator system for the segregation of waste at the household level is implemented. The proposed segregator system segregates the waste into two types, viz. wet and dry. Here, Arduino Uno board is used as the main controller and various sensors are used to detect each type of waste, which is segregated and thrown into the respective bins. Using this automatic waste segregator system, the separated wastes can be sent directly for recycling.
+
+## 1.2 State of art
+The main focus of this project is to detect the different types of the waste and throw the waste into their respective bin. Rain sensor is used to detect the wet waste and LDR sensor is used to detect the dry waste ,when the waste is detected servo rotates and throw the waste to the bin. If the bin is full then it display a message saying the bin is full. By combining all these features a final product is made known as Waste Segregator. As the technology is increasing rapidly these kind of automations are very useful in our daily lives.
+
+## 1.3  5W's and 1H
+![5g and 1h](https://user-images.githubusercontent.com/98802184/156572135-ca89fe40-90f0-4242-b232-298e05739502.PNG)
+
+##  Swot Analysis
+![swot](https://user-images.githubusercontent.com/98802184/156577136-48b7500f-04f8-4400-9c9b-436542506b9d.PNG)
+
 
 # 2.Requirements
 
@@ -40,34 +55,16 @@ In this project, a cost effective Automated Waste Segregator system for the segr
 | LLR2        | Ultrasonic sensor is used to detect the waste in the bin if the bin is full, then a message is displayed in the LCD                         | Implemented |
 | LLR3        | ultrasonic sensor should sense if anyone come close and servo motor should open the door                                                            | Implemented |
 
- # 3.APPLICATIONS:
-- In underground cities.
-- In municipalities.
-- In clean India mission.
-- Reducing human time and effort
-- Promotes health and sanitation
-- Protects the environment
-- Makes dumping garbage more clean
-
- # ADVANTAGES
-- Easy to handle
-- Smart Usage
-- Safety
-
-# 4. Swot Analysis
-![swot](https://user-images.githubusercontent.com/98802184/156577136-48b7500f-04f8-4400-9c9b-436542506b9d.PNG)
 
 
-# 5. 5W's and 1H
-![5g and 1h](https://user-images.githubusercontent.com/98802184/156572135-ca89fe40-90f0-4242-b232-298e05739502.PNG)
 
+# 3.Block Diagram and Blocks explanation
 
-# 6.Structural Design
-## Block Diagram
+## 3.1 Block Diagram
 ![block_4](https://user-images.githubusercontent.com/98802184/156924435-69298529-6cdf-46a4-b8a1-e8025ce2cb93.PNG)
 
 
-# 6.1 Component Details
+# Component Details
 # Microcontroller
 The arduino uno it is one of the preferred boards among arduino family.The Arduino Uno is interfaced with the various modules 
 including the rain sensor, LDR sensor,relay,DC motor and servo motor. 
@@ -90,6 +87,9 @@ including the rain sensor, LDR sensor,relay,DC motor and servo motor.
  # LCD Display
    The LCD display prints a message when the bin is full.
 
-# 7. Behavioural Design
- ## Flow Chart
+#  4.Architecture
+## 4.1 Behavioural Design
+ ## 4.1.1 Flow Chart
 ![flow](https://user-images.githubusercontent.com/98802184/156937415-c4f0530c-d5c2-4d56-9c76-e8da3c67474b.PNG)
+
+## 4.2 Structural Diagram
