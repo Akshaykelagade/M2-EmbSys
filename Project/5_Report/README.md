@@ -16,7 +16,7 @@
       1.	Behavioural Diagram
       1.	Flow chart
       2.	Structural Diagram
-      1.	Block Diagram
+ 
 5.	Test plan and Output
       1.	High level test plan
 
@@ -93,3 +93,6 @@ including the rain sensor, LDR sensor,relay,DC motor and servo motor.
 ![flow](https://user-images.githubusercontent.com/98802184/156937415-c4f0530c-d5c2-4d56-9c76-e8da3c67474b.PNG)
 
 ## 4.2 Structural Diagram
+![Strucral diagarm](https://user-images.githubusercontent.com/98802184/157208472-e1988b04-5e75-4c18-b6c1-d1cd7d9f8998.PNG)
+
+#  5.Test plan and Output
